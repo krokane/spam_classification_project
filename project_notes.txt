@@ -1,1 +1,23 @@
+Datasets 
+1. Enron
+2. SpamAssasin 
+3. Kaggle Phishing Data
 
+Aggregate data across each -- use almost all of SA and then use a similar amount of the other two
+Train = 20k, Test = 3k
+
+Potentially explore a 4th data set to try and see how models generalize
+Look into CSDMI2010
+
+Experiments
+Exp A: Vary training data size from 20,000
+Exp B: Vary "important words" used to calculate probabilities -- start w 0 removed
+Exp C: Use spaCy POS/NER tags similar to Graham using Subject line tags to see if this improves classification accuracy
+  Mentor Note (3/13): Skeptical of potential improvements -- think harder about how this could work or be beneficial 
+  Kevin Note (3/14): Figure out how to use subject lines -- certain datasets are missing subject lines (Enron has subjects and senders)
+Exp D: Compare Naive Bayes to LSTM model 
+  Kevin Note (3/14): Do research to see if further models might work better at this task and should be included
+  Kevin Note (3/14): Definitely would want to measure how these generalized -- though not vital because corpus is all about personalization
+
+Project B Goals: 
+Finish cleaning data across datasets [Complete], define tokenization rules [Complete], finish building baseline model [Complete], complete experiment A [Complete]
