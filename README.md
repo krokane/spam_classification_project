@@ -2,6 +2,6 @@
 Spam classification project for DSCI 599 exploring Naive Bayes and LSTM neural networks for classifying spam email. 
 
 Data
-\n[Enron]([http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html])
-\n[SpamAssassin]([url](https://spamassassin.apache.org/old/publiccorpus/))
-\n[Phishing]([url](https://www.kaggle.com/datasets/subhajournal/phishingemails))
+[Enron](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html)
+[SpamAssassin](https://spamassassin.apache.org/old/publiccorpus/)
+[Phishing](https://www.kaggle.com/datasets/subhajournal/phishingemails)
