@@ -1,10 +1,8 @@
 # spam_classification_project
 Spam classification project exploring Naive Bayes and LSTM neural networks for classifying spam email. 
 
-Data
+[Enron Dataset](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html)
 
-[Enron](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html)
+[SpamAssassin Dataset](https://spamassassin.apache.org/old/publiccorpus/)
 
-[SpamAssassin](https://spamassassin.apache.org/old/publiccorpus/)
-
-[Phishing](https://www.kaggle.com/datasets/subhajournal/phishingemails)
+[Phishing Dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails)
