@@ -6,3 +6,6 @@ Spam classification project exploring Naive Bayes and LSTM neural networks for c
 [SpamAssassin Dataset](https://spamassassin.apache.org/old/publiccorpus/)
 
 [Phishing Dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails)
+
+Code Required Packages.
+pandas, re, sklearn, numpy, nltk, email, pathlib
